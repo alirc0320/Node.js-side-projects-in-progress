@@ -44,7 +44,7 @@ yargs.command({
     notes.removeNote(argv.title);
   },
 });
-
+//commit
 yargs.command({
   command: "list",
   describe: "List your notes",
